@@ -1,0 +1,4 @@
+INFO: 2023/09/03 17:40:00 service.go:37: #### start clean job
+INFO: 2023/09/03 17:40:00 service.go:40: exec is  find /Users/levin/workspace/data/摄影/备份/0624～0709/ -name "*.JPG" -type f -mtime +60  -exec rm {} \;
+INFO: 2023/09/03 18:01:00 service.go:42: #### start clean job
+INFO: 2023/09/03 18:01:00 service.go:45: exec is  find . -name "*.JPG" -type f -mtime +60  -exec rm {} \;

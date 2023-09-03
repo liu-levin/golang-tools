@@ -22,3 +22,6 @@ go.work
 
 # IDE dir
 .idea/
+
+# exec file
+./cmd/regular-clean/regular-clean
