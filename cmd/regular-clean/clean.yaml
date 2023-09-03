@@ -1,0 +1,9 @@
+ARCH: WINDOWS
+
+FILE_PATH: ""
+
+LOG_FILE: "./clean.log"
+
+CORN_TIME: "01 */1 * * *"
+
+EXPIRED_DAYS: 60
